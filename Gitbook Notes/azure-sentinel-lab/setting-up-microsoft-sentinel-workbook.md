@@ -39,3 +39,18 @@ Adjust Map settings as needed or you can base location information by Country in
 
 Wait Several Hours to see how many other attackers attempt to login onto the honeypot:\
 ![](<../.gitbook/assets/image (21).png>)
+
+
+
+After Leaving the Honey Pot to be discoverable overnight 579 API calls were made. The attack map showed a increase of attacks from Europe & Asia Including:&#x20;
+
+* Netherlands - 365
+* Germany - 137&#x20;
+* Ukraine - 19
+* Thailand - 18
+* UK - 1
+* Russia - 1
+
+Additionally, there was an additional 89 attempts from within the United States.&#x20;
+
+![](<../.gitbook/assets/image (23).png>)
