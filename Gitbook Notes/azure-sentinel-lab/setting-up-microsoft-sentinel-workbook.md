@@ -59,3 +59,7 @@ After a few hours additional attempts game from the Netherlands. New attempts we
 
 ![](<../.gitbook/assets/image (24).png>)
 
+By 11:11 AM EST the Netherlands had recorded 1.35K login attempts
+
+![](../.gitbook/assets/image.png)
+
