@@ -30,7 +30,7 @@ Now that the firewall has been shutoff, we next have to run a powershell script.
 
 Open and run the PowerShell ISE and copy the following code - [PowerShell Script](https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom\_Security\_Log\_Exporter.ps1)
 
-This script requires an API key from [https://ipgeolocation.io/](https://ipgeolocation.io/)&#x20;
+This script requires an API key from [https://ipgeolocation.io/] *For Security Purposes, the API key in the screenshot below has already been revoked* (https://ipgeolocation.io/)&#x20;
 
 Once an API key has been obtained the script will continously loop searching for events of failed RDP attempts.&#x20;
 
